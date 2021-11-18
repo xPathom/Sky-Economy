@@ -1,4 +1,4 @@
-#SkyEconomy
+# SkyEconomy
 
 Welcome to Sky Economy a classic Skyblock Modpack with a focus on tech mods and also some magic.
 There are many quests and a lot of modified recipes. The pack progression involves many mods which are made harder and depend on each other.
