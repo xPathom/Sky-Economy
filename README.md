@@ -8,3 +8,4 @@ This pack is in an alpha state, so you can report bugs and suggest things in the
 https://discord.gg/x3cAdNbYEw
 
 Hope you enjoy and have fun!
+https://www.curseforge.com/minecraft/modpacks/skyeconomy/files/all
